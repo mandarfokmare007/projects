@@ -9,6 +9,10 @@
    color: rgb(48, 47, 47)
    ;
 }
+body{
+    margin:-10%;
+    margin-top: 10%;
+}
 .b{
     font-weight:10;
     color: rgb(136, 133, 133);
